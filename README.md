@@ -4,7 +4,7 @@ Detects pathologies and restorations.
 ### Requirements
 The actual code was implemented and tested in Python 3.9.12.
 
-### Lablme XML Parser
+### Labelme XML Parser
 **labelMeXMLParser** directory presents the code that generates masks for image segmentation.
 
 How is it organized:
