@@ -12,7 +12,7 @@ How is it organized:
 	
 ~~~~
 └── labelMeXMLParser
-    ├── xml_parse.py
+    ├── xml_parse.py: create masks
     ├── inputAnnotations: LabelMe xml annotation format
     ├── inputImages: sample images used for mask creation
     ├── outputCombined: output blended masks (input images + output visualization images)
